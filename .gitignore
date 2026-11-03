@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist-server/
+data/
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.log
+
+# Az eredeti promptelozmeny privat alkalmazasjelszot tartalmaz.
+/prompt_history.txt
